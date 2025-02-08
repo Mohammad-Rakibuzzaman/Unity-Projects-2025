@@ -28,3 +28,8 @@ public class Mover : MonoBehaviour
         
     }
 }
+
+
+// documents
+
+// so in the obstacle lesson learned that z value for forward and backward, x value for left and right, and y value for up and down
