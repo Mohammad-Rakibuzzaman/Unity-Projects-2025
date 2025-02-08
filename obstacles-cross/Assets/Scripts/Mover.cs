@@ -6,7 +6,7 @@ public class Mover : MonoBehaviour
 
 
 
-    [SerializeField] float moveSpeed = 0.01f;
+    [SerializeField] float moveSpeed = 2f;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
