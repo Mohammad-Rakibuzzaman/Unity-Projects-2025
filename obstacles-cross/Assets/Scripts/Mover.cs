@@ -27,6 +27,17 @@ public class Mover : MonoBehaviour
         transform.Translate(xValue, yValue, zValue);
         
     }
+
+    void PrintInstruction()
+    {
+        Debug.Log("You are welcome to our game!");
+        
+    }
+
+
+
+
+
 }
 
 
