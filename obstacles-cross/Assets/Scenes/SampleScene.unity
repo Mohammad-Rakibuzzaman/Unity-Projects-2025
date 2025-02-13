@@ -328,7 +328,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3114035, y: -0.02534652, z: 0.008309262, w: 0.94990337}
-  m_LocalPosition: {x: -3.4299998, y: 5.34, z: -7.6}
+  m_LocalPosition: {x: -3.3, y: 5.34, z: -7.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -974,7 +974,7 @@ Transform:
   m_GameObject: {fileID: 985382544}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.25, y: 3.3, z: 4.43}
+  m_LocalPosition: {x: -1.25, y: 3.63, z: 4.43}
   m_LocalScale: {x: 1.1717978, y: 0.73288, z: 1.5479}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55c4991f8a2b1d64db4b0959723a7912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToWait: 2
+  timeToWait: 7.37
 --- !u!54 &985382551
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1365,7 +1365,7 @@ GameObject:
   - component: {fileID: 1539836278}
   m_Layer: 0
   m_Name: ' Scooby The Player'
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1453,7 +1453,7 @@ Transform:
   m_GameObject: {fileID: 1539836271}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.83, y: -0.17, z: -0.11}
+  m_LocalPosition: {x: -3.7, y: -0.17, z: -0.11}
   m_LocalScale: {x: 0.66068, y: 0.36769766, z: 0.69146}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1601,7 +1601,7 @@ Transform:
   m_GameObject: {fileID: 1636665809}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3114035, y: -0.02534652, z: 0.008309262, w: 0.94990337}
-  m_LocalPosition: {x: -3.4299998, y: 5.34, z: -7.6}
+  m_LocalPosition: {x: -3.3, y: 5.34, z: -7.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
