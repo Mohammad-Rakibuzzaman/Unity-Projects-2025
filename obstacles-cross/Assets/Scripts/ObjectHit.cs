@@ -14,7 +14,4 @@ public class ObjectHit : MonoBehaviour
         // Debug.Log("You hit something!");
     }
 
-
-
-
 }
